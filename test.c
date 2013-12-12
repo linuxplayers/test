@@ -10,5 +10,5 @@ int main(void)
     test();
     printf("hello world! \r\n");
     
-    return 0；
+    return 0;
 }
